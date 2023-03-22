@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{784B0D2D-D8BA-4154-87C1-D2469E24001C}'];loadHandler&&loadHandler(23, '<div id="spr0_5b05ecf"><div id="spr1_5b05ecf" class="kern slide"><img id="img1_5b05ecf" src="data/img3.png" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_5b05ecf" class="kern slide"><div id="spr3_5b05ecf" style="left:0.002px;top:0.135px;"><img id="img0_5b05ecf" src="data/img64.png" width="1279.5" height="720" alt="A person using a tablet\
+\
+Description automatically generated with low confidence" style="left:0.187px;top:-0.05px;"/></div></div></div>', '{"s":[]}');})();
